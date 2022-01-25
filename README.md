@@ -1,2 +1,2 @@
-# C-and-CPP
-Lockdown Coding Tutorial
+# C and CPP
+Lockdown Coding Tutorial.
